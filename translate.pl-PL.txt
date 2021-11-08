@@ -1,0 +1,2 @@
+to jest testowy plik github
+to jest koniec pliku
